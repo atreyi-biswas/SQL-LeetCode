@@ -103,10 +103,8 @@ My solutions to the LeetCode SQL 50 Study Plan.
 
 ## 2. Database Questions
 
-| #    | Problem                         | Difficulty | Solution                                               |
-| ---- | ------------------------------- | ---------- | ------------------------------------------------------ |
-| 1757 | Recyclable and Low Fat Products | Easy       | [Solution](./1757_Recyclable_and_Low_Fat_Products.sql) |
-| 584  | Find Customer Referee           | Easy       | [Solution](./584_Find_Customer_Referee.sql)            |
-| 595  | Big Countries                   | Easy       | [Solution](./595_Big_Countries.sql)                    |
-| 1148 | Article Views I                 | Easy       | [Solution](./1148_Article_Views_I.sql)                 |
-| 1683 | Invalid Tweets                  | Easy       | [Solution](./1683_Invalid_Tweets.sql)                  |
+### Day-1
+
+| #    | Problem                         | Difficulty | Solution |
+| ---- | ------------------------------- | ---------- | -------- |
+| 176 | Second Highest Salary | Medium | [Solution](./Database%Questions/SecondHighestSalary.sql) |
