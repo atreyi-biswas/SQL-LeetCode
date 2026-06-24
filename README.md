@@ -107,7 +107,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 
 | #    | Problem                         | Difficulty | Solution |
 | ---- | ------------------------------- | ---------- | -------- |
-| 176 | Second Highest Salary | Medium | [Solution](./Database%Questions/SecondHighestSalary.sql) |
+| 176 | Second Highest Salary | Medium | [Solution](Database%Questions/SecondHighestSalary.sql) |
 
 
 
