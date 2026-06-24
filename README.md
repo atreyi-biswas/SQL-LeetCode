@@ -365,3 +365,12 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 3688 | Bitwise OR of Even Numbers in an Array | Easy | |
 | 3690 | Split and Merge Array Transformation | Medium | |
 | 3700 | Number of ZigZag Arrays II | Hard | |
+
+
+### Progress
+
+* Total Problems: **250**
+* Easy: **0**
+* Medium: **1**
+* Hard: **0**
+* Status: **1/250 Completed**
