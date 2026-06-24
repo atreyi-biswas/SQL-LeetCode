@@ -1,8 +1,10 @@
-# LeetCode SQL 50 Solutions
+# SQL Letcode Questins
+
+## 1. LeetCode SQL 50 Solutions
 
 My solutions to the LeetCode SQL 50 Study Plan.
 
-## Select
+### Select
 
 | #    | Problem                         | Difficulty | Solution                                               |
 | ---- | ------------------------------- | ---------- | ------------------------------------------------------ |
@@ -12,7 +14,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 1148 | Article Views I                 | Easy       | [Solution](./1148_Article_Views_I.sql)                 |
 | 1683 | Invalid Tweets                  | Easy       | [Solution](./1683_Invalid_Tweets.sql)                  |
 
-## Basic Joins
+### Basic Joins
 
 | #    | Problem                                                | Difficulty | Solution                                                                      |
 | ---- | ------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------- |
@@ -26,7 +28,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 570  | Managers with at Least 5 Direct Reports                | Medium     | [Solution](./570_Managers_with_at_Least_5_Direct_Reports.sql)                 |
 | 1934 | Confirmation Rate                                      | Medium     | [Solution](./1934_Confirmation_Rate.sql)                                      |
 
-## Basic Aggregate Functions
+### Basic Aggregate Functions
 
 | #    | Problem                                | Difficulty | Solution                                                      |
 | ---- | -------------------------------------- | ---------- | ------------------------------------------------------------- |
@@ -39,7 +41,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 1174 | Immediate Food Delivery II             | Medium     | [Solution](./1174_Immediate_Food_Delivery_II.sql)             |
 | 550  | Game Play Analysis IV                  | Medium     | [Solution](./550_Game_Play_Analysis_IV.sql)                   |
 
-## Sorting and Grouping
+### Sorting and Grouping
 
 | #    | Problem                                          | Difficulty | Solution                                                                |
 | ---- | ------------------------------------------------ | ---------- | ----------------------------------------------------------------------- |
@@ -51,7 +53,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 619  | Biggest Single Number                            | Easy       | [Solution](./619_Biggest_Single_Number.sql)                             |
 | 1045 | Customers Who Bought All Products                | Medium     | [Solution](./1045_Customers_Who_Bought_All_Products.sql)                |
 
-## Advanced Select and Joins
+### Advanced Select and Joins
 
 | #    | Problem                                               | Difficulty | Solution                                                                     |
 | ---- | ----------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
@@ -63,7 +65,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 1204 | Last Person to Fit in the Bus                         | Medium     | [Solution](./1204_Last_Person_to_Fit_in_the_Bus.sql)                         |
 | 1907 | Count Salary Categories                               | Medium     | [Solution](./1907_Count_Salary_Categories.sql)                               |
 
-## Subqueries
+### Subqueries
 
 | #    | Problem                                      | Difficulty | Solution                                                          |
 | ---- | -------------------------------------------- | ---------- | ----------------------------------------------------------------- |
@@ -75,7 +77,7 @@ My solutions to the LeetCode SQL 50 Study Plan.
 | 585  | Investments in 2016                          | Medium     | [Solution](./585_Investments_in_2016.sql)                         |
 | 185  | Department Top Three Salaries                | Hard       | [Solution](./185_Department_Top_Three_Salaries.sql)               |
 
-## Advanced String Functions / Regex / Clause
+### Advanced String Functions / Regex / Clause
 
 | #    | Problem                               | Difficulty | Solution                                                     |
 | ---- | ------------------------------------- | ---------- | ------------------------------------------------------------ |
@@ -89,10 +91,16 @@ My solutions to the LeetCode SQL 50 Study Plan.
 
 ---
 
-## Progress
+### Progress
 
 * Total Problems: **50**
 * Easy: **13**
 * Medium: **2**
 * Hard: **0**
 * Status: **15/50 Completed**
+
+---
+
+## 2. Database Questions
+
+
