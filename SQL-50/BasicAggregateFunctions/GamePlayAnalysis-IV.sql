@@ -7,7 +7,7 @@ SELECT
 FROM Activity a
 JOIN Activity b
 ON a.player_id = b.player_id
-AND b.event_date = DATE_ADD(a.event_date, INTERVAL 1 DAY)
+AND DATEDIFF(b.event_date, a.event_date) = 1
 WHERE a.event_date = (
     SELECT MIN(event_date)
     FROM Activity
