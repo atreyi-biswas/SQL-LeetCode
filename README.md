@@ -94,10 +94,10 @@ My solutions to the LeetCode SQL 50 Study Plan.
 ### Progress
 
 * Total Problems: **50**
-* Easy: **13**
-* Medium: **2**
+* Easy: **18**
+* Medium: **5**
 * Hard: **0**
-* Status: **15/50 Completed**
+* Status: **23/50 Completed**
 
 ---
 
